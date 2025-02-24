@@ -15,12 +15,12 @@ This app offers users a curated selection of items from three popular stores—A
 <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/registration%20and%20login.png"  width="450"/>
 
 - **Product Browsing**: Users can browse products by category (e.g., Men, Women) and apply filters to find the desired items.
-  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/choosing%20category.png" width="450" />
-  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/applying%20filters.png" width="450" />
+  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/choosing%20category.png" width="400" />
+  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/applying%20filters.png" width="400" />
   
 - **Shopping Cart**: Users can add items to their cart and view the total amount before proceeding to checkout.
-  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/shoppping%20cart.png" width="450" />
-  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/displaying%20total%20amount.png" width="450" />
+  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/shoppping%20cart.png" width="400" />
+  <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/displaying%20total%20amount.png" width="400" />
   
 - **Admin Panel**: Admins can manage the stock by adding, updating, or deleting items from the inventory.
   <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/8349314685b85f4412bff6eb98394c945ebb6f76/admin%20operations.png" width="450" />
