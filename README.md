@@ -15,6 +15,7 @@ This app offers users a curated selection of items from three popular stores—A
 <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/registration%20and%20login.png"  width="450"/>
 
 - **Product Browsing**: Users can browse products by category (e.g., Men, Women) and apply filters to find the desired items.
+  
   <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/choosing%20category.png" width="400" />
   <img src="https://github.com/Shreiya-Muthuvelan/Shopping-App/blob/3b5eb6faa4eaff508bf275dff35ece2783483ccf/applying%20filters.png" width="400" />
   
@@ -40,7 +41,7 @@ This project utilizes several core Java concepts and technologies:
 7. **Inheritance**: Used to extend classes like `JFrame` and `JPanel` to create reusable components.
    
 9. **Collection Frameworks**: Utilizes `Vector` and `HashMap` for efficient data storage and retrieval.
-    
+
 11. **Method Overriding**: Custom implementations of methods like `actionPerformed` to handle button clicks.
     
 13. **Encapsulation**: Ensures data security by restricting access to class members and providing controlled access through methods.
